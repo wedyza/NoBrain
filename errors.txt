@@ -2,7 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/historyTeacherChapter.rpy", line 2: Tab characters are not allowed in Ren'Py scripts.
+File "game/init.rpy", line 43: expected expression
+    image bg code = 
+                    ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Tue Dec 20 23:39:06 2022
+Sat Dec 31 13:58:28 2022
